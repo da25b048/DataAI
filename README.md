@@ -25,5 +25,5 @@ Databricks Free Edition<br>
 FAISS Vector Search (455+ chunks)<br>
 ↓<br>
 Sentence Transformers (Embeddings)<br>
-↓<br><br><br>
+<br><br>
 Made with ❤️ for BharatBricks Hackathon 2026
