@@ -18,12 +18,12 @@ Track: Nyaya-Sahayak (Governance & Access to Justice)
 - 📚 Built with RAG + FAISS vector search
 
 ## 🏗️ Architecture
-User Question → Keyword Matching → BNS Section → Answer Response
-↓
-Databricks Free Edition
-↓
-FAISS Vector Search (455+ chunks)
-↓
-Sentence Transformers (Embeddings)
-
+User Question → Keyword Matching → BNS Section → Answer Response <br>
+↓<br>
+Databricks Free Edition<br>
+↓<br>
+FAISS Vector Search (455+ chunks)<br>
+↓<br>
+Sentence Transformers (Embeddings)<br>
+↓<br>
 Made with ❤️ for BharatBricks Hackathon 2026
